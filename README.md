@@ -1,5 +1,5 @@
 # Esther's Kitchen
-A Simple single recipe for the right people at the right place.
+A Simple single recipe dish for the right people at a low price.
 ## Web Technology
 * HTML
 * CSS
