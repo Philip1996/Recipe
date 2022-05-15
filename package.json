@@ -1,0 +1,22 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Philip1996/Recipe.git"
+  },
+  "author": "Philip Mboyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Philip1996/Recipe/issues"
+  },
+  "homepage": "https://github.com/Philip1996/Recipe#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
